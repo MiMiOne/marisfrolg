@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  Template
+//
+//  Created by Wiley on 2017/5/31.
+//  Copyright © 2017年 Wiley. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "DefineHeader.h"
+#import <YYKit/YYKit.h>
+#import "UIView+Frame.h"
+#import "UIBarButtonItem+Extension.h"
+
+#endif /* PrefixHeader_pch */
